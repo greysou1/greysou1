@@ -1,6 +1,5 @@
-# Hello there, I'm Prudvi Kamtam <img src="https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif?itemid=13903117"  width="70px"></h2>
-
-<h3><p align="left">Visitor No. <br><img src="https://profile-counter.glitch.me/greysou1/count.svg" /></p></h3>
+# Prudvi Kamtam
+<img src="https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif?itemid=13903117"  width="100px"> ![](https://komarev.com/ghpvc/?username=greysou1&label=+visitor+no.)
 
 - 👨‍💻  I’m a Computer Science engineer and Data Science enthusiast
 - 🐍 My prefered programming language is Python
@@ -15,7 +14,5 @@
 
 
 [![My Github stats](https://github-readme-stats.vercel.app/api?username=greysou1&show_icons=true&&cache_seconds=86400&theme=highcontrast)](https://github.com/anupamhaldkar/github-readme-stats) 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greysou1&theme=highcontrast" alt="greysou1" /></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greysou1&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greysou1&theme=highcontrast&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=greysou1&theme=highcontrast" alt="greysou1" />
