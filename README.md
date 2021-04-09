@@ -3,7 +3,7 @@
 
 - 👨‍💻  I’m a Computer Science engineer and Data Science enthusiast
 - 🐍 My prefered programming language is Python
-- 📖 I’m currently learning to build apps that scale and network security
+- 📖 I’m currently learning to build scalable DL models
 - 🚀 #TeamSpace
 - 📫 How to reach me: 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prudv1/)
