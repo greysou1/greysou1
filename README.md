@@ -1,7 +1,7 @@
 # Prudvi Kamtam
 <img src="https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif?itemid=13903117"  width="100px"> ![](https://komarev.com/ghpvc/?username=greysou1&label=+visitor+no.)
 
-- 👨‍💻  I’m a Computer Science engineer and Data Science enthusiast
+- 👨‍💻  I’m a Machine Learning Engineer
 - 🐍 My prefered programming language is Python
 - 📖 I’m currently learning to build scalable DL models
 - 🚀 #TeamSpace
