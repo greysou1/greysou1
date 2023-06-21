@@ -1,5 +1,10 @@
-# Prudvi Kamtam [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prudv1/)  
-<img src="https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif?itemid=13903117"  width="50px"> ![](https://komarev.com/ghpvc/?username=greysou1&label=+visitor+no.)
+# Prudvi Kamtam [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prudv1/)
+
+<!-- 
+<h1>Prudvi Kamtam <a href="https://www.linkedin.com/in/prudv1/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a><div style="display: flex; justify-content: flex-end;", align="right"><img src="https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif?itemid=13903117" width="50px"><img src="https://komarev.com/ghpvc/?username=greysou1&label=+visitor+no." alt="visitor counter"></div></h1>
+-->
+
+<img src="https://media1.tenor.com/images/2eada1bbeb4ed4182079cf00070324a2/tenor.gif?itemid=13903117"  width="70px"> ![](https://komarev.com/ghpvc/?username=greysou1&label=+visitor+no.)
 
 
 | Top Languages | GitHub Streak |
